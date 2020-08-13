@@ -2,7 +2,7 @@
 
 1) OR_MainCharacter
 
-Clase principal del personaje en el proyecto y mi mejor clase hasta ahora , ha sido trabajada con bastantes horas de dedicacion para lograr una locomocion fluida y pulir gran cantidad de casos de uso en el GamePlay , me he guiado de sistemas de locomocion de juegos referentes como Call Of Duty para saber a que movimiento darle prioridad sobre otro. Por ultimo tambien he intentado construir una clase solida que desde el manejo de mis capacidades me permita seguir escalandola a lo largo del proyecto.
+Clase principal del personaje y mi mejor clase hasta ahora , ha sido trabajada con bastantes horas de dedicacion para lograr una locomocion fluida y pulir gran cantidad de casos de uso en el GamePlay , me he guiado de sistemas de locomocion de juegos referentes como Call Of Duty para saber a que movimiento darle prioridad sobre otro. Por ultimo tambien he intentado construir una clase solida que desde el manejo de mis capacidades me permita seguir escalandola a lo largo del proyecto.
 
 2) OR_Enemy
 
