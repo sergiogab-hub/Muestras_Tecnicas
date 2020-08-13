@@ -2,11 +2,11 @@
 
 1) OR_MainCharacter
 
-Clase principal del personaje y mi mejor clase hasta ahora, ha sido trabajada con bastantes horas de dedicacion para lograr una locomocion fluida, asi como tambien, pulir gran cantidad de casos de uso en el GamePlay, me he guiado de sistemas de locomocion de juegos referentes como Call Of Duty para saber a que movimiento darle prioridad sobre otro. Por ultimo, tambien he intentado construir una clase solida que desde el manejo de mis capacidades me permita seguir escalandola a lo largo del proyecto.
+Clase principal del personaje y mi mejor clase hasta ahora, ha sido trabajada con bastantes horas de dedicación para lograr una locomoción fluida, así como también, pulir gran cantidad de casos de uso en el GamePlay, me he guiado de sistemas de locomoción de juegos referentes como Call Of Duty para saber a que movimiento darle prioridad sobre otro. Por ultimo, tambien he intentado construir una clase solida que desde el manejo de mis capacidades me permita seguir escalandola a lo largo del proyecto.
 
 2) OR_Enemy
 
-Clase base de los enemigos, la cual es un complemento directo del respectivo Behavior Tree en el que he repartido gran cantidad de funciones logicas entre Blueprints (Task, Decorators, Services) y el codigo. Construi ademas, su sistema de navegacion/locomocion basado en el "Pitch", "Yaw" y la distancia con el jugador, el cual se ejecuta mediante un sistema de puntos de navegacion que sirven como referencias para el movimiento (No Trabaje EQS).  
+Clase base de los enemigos, la cual es un complemento directo del respectivo Behavior Tree en el que he repartido gran cantidad de funciones lógicas entre Blueprints (Task, Decorators, Services) y el codigo. Construi ademas, su sistema de navegacion/locomocion basado en el "Pitch", "Yaw" y la distancia con el jugador, el cual se ejecuta mediante un sistema de puntos de navegacion que sirven como referencias para el movimiento (No Trabaje EQS).  
 
 3) MainCharacter
 
