@@ -1,4 +1,4 @@
-# Convocatoria-Teravision_Muestras-Tecnicas
+# Muestras-Tecnicas
 
 1) OR_MainCharacter
 
